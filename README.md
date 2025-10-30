@@ -64,7 +64,7 @@ I'm a **Computer Engineering graduate** passionate about using technology to sol
 - **[RF-DETR + ByteTrack](https://github.com/wmp1123/rfdetr-bytetrack)**  
   A vehicle tracking system combining transformer-based object detection (RF-DETR) and ByteTrack for continuous and accurate multi-object tracking.  
 
-- **[OnScreen Media Control](https://github.com/wmp1123/OnScreen_Media_Control)**  
+- **[OnScreen Media Control](https://github.com/wmp1123/OnScreen_Media_Controlv2)**  
   A PyQt-based desktop application that allows users to control media playback through an on-screen interface, integrating system volume and media shortcuts.  
 
 - **[Flood Detection Module](https://github.com/codecinn27/Y3S2_flood2)**  
