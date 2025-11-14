@@ -1,4 +1,4 @@
-# Hi, my name is Wee Mao Phin
+ # Hi, my name is Wee Mao Phin
 <a href="https://github.com/wmp1123" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -67,6 +67,6 @@ I'm a **Computer Engineering graduate** passionate about using technology to sol
 - **[OnScreen Media Control](https://github.com/wmp1123/OnScreen_Media_Controlv2)**  
   A PyQt-based desktop application that allows users to control media playback through an on-screen interface, integrating system volume and media shortcuts.  
 
-- **[Flood Detection Module](https://github.com/codecinn27/Y3S2_flood2)**  
+- **[Flood Detection Module](https://github.com/codecinn27/Y3S2_flood_iot_web)**  
   An IoT-based system that detects rising water levels using sensors and sends real-time alerts through a web dashboard for early flood warnings.
 
